@@ -1,0 +1,4 @@
+module stringutilclient {
+	
+	requires stringutil;
+}
